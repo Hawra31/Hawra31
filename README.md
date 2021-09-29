@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hawra31
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 I’m interested in all things data.
 - 📫 How to reach me hawra31@outlook.com
 
 <!---
